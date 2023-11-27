@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Processamento de Imagem </h1>
 
 <p align="center">
 Disciplina Tópicos Avançados 1 - Processamento de Imagem <br/>
@@ -9,9 +9,7 @@ Disciplina Tópicos Avançados 1 - Processamento de Imagem <br/>
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
+
 
 ## 🚀 Tecnicas Utilizadas
 
